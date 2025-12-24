@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '')
 
   return {
-    base: '/Omnis/', // 👈 REQUIRED for GitHub Pages
+    base: '/Omnis', // 👈 REQUIRED for GitHub Pages
     server: {
       port: 3000,
       host: '0.0.0.0',
