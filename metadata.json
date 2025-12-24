@@ -1,0 +1,8 @@
+{
+  "name": "Omnis: Autonomous AI Presence",
+  "description": "A high-authority product website for an autonomous AI presence system that attends meetings and executes work on your behalf.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
